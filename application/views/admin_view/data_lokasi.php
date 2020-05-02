@@ -1,6 +1,6 @@
 <div class="content">
     <h1>
-        <p align="center">Data lokasi PNS Universitas Pendidikan Ganesha</p>
+        <p align="center">Data lokasi Laboratorium Fakultas Teknik dan Kejuruan</p>
     </h1>
     <hr />
     <div class="table-responsive panel panel-flat">
